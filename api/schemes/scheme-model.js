@@ -1,5 +1,5 @@
 // scheme-model
-const db = require("../data/config")
+const db = require("../data/db-config")
 
 
 function find() {
